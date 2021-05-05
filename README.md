@@ -1,6 +1,8 @@
 ![Github logo](https://user-images.githubusercontent.com/25181517/117180969-0cd72e00-add5-11eb-83e7-2deecc77d668.png)
 ### Hi there 👋
 
+My name is Peter Zmilczak and I am Fullstack Software Engineer.
+
 <!--
 **marwin1991/marwin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
