@@ -1,4 +1,4 @@
-![Github logo](https://user-images.githubusercontent.com/25181517/117180969-0cd72e00-add5-11eb-83e7-2deecc77d668.png)
+![marwin1991_header](https://user-images.githubusercontent.com/25181517/117184422-00ed6b00-add9-11eb-9d45-02420859fe88.png)
 ### Hi there 👋
 
 My name is Peter Zmilczak and I am Fullstack Software Engineer. I enjoy programming the most when I can solve soneone's problem and the code is as perfect as I can make it. 
