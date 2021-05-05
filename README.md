@@ -1,11 +1,10 @@
-
 ![marwin1991_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
 ### Hi there 👋
 
 My name is Peter Zmilczak and I am Fullstack Software Engineer. I enjoy programming the most when I can solve soneone's problem and the code is as perfect as I can make it. 
 One of the greatest advantages of our industry in my opinion is the ability to share and transfer knowledge. I am `DevOps/Automate-everything Approach Lover` and `Stock Market Enthusiast`, feel free to contact me in any case using `peter.zmilczak@gmail.com` and if I will be able, I will be happy to help you 🙂.
 
-<img height="30" src="https://user-images.githubusercontent.com/25181517/117200473-d1942980-adeb-11eb-86af-405283fcfdfb.png">
+<img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
 
 <!--
 **marwin1991/marwin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
