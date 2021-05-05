@@ -12,6 +12,9 @@ One of the greatest advantages of our industry in my opinion is the ability to s
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"></code>
+
 
 
 
