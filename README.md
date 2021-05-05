@@ -1,7 +1,8 @@
 ![Github logo](https://user-images.githubusercontent.com/25181517/117180969-0cd72e00-add5-11eb-83e7-2deecc77d668.png)
 ### Hi there 👋
 
-My name is Peter Zmilczak and I am Fullstack Software Engineer.
+My name is Peter Zmilczak and I am Fullstack Software Engineer. I enjoy programming the most when I can solve soneone's problem and the code is as perfect as I can make it. 
+One of the greatest advantages of our industry in my opinion is the ability to share and transfer knowledge. I am `DevOps/Automate-everything Approach Lover` and `Stock Market Enthusiast`, feel free to contact me in any case using `peter.zmilczak@gmail.com` and if I will be able, I will be happy to help you 🙂.
 
 <!--
 **marwin1991/marwin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
