@@ -4,8 +4,8 @@
 My name is Peter Zmilczak and I am Fullstack Software Engineer. I enjoy programming the most when I can solve soneone's problem and the code is as perfect as I can make it. 
 One of the greatest advantages of our industry in my opinion is the ability to share and transfer knowledge. I am `DevOps/Automate-everything Approach Lover` and `Stock Market Enthusiast`, feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://www.linkedin.com/in/piotr-zmilczak/)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](mailto:peter.zmilczak@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:peter.zmilczak@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/piotr-zmilczak/)
 
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"></code>
