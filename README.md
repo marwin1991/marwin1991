@@ -2,7 +2,10 @@
 ### Hi there 👋
 
 My name is Peter Zmilczak and I am Fullstack Software Engineer. I enjoy programming the most when I can solve soneone's problem and the code is as perfect as I can make it. 
-One of the greatest advantages of our industry in my opinion is the ability to share and transfer knowledge. I am `DevOps/Automate-everything Approach Lover` and `Stock Market Enthusiast`, feel free to contact me in any case using `peter.zmilczak@gmail.com` and if I will be able, I will be happy to help you 🙂.
+One of the greatest advantages of our industry in my opinion is the ability to share and transfer knowledge. I am `DevOps/Automate-everything Approach Lover` and `Stock Market Enthusiast`, feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://www.linkedin.com/in/piotr-zmilczak/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/piotr-zmilczak/)
 
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"></code>
@@ -14,6 +17,8 @@ One of the greatest advantages of our industry in my opinion is the ability to s
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"></code>
+
 
 
 
