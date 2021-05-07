@@ -23,6 +23,8 @@ One of the greatest advantages of our industry in my opinion is the ability to s
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"></code>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwin1991&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **marwin1991/marwin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
