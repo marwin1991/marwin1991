@@ -1,8 +1,9 @@
 ![marwin1991_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
 ### Hi there 👋
 
-My name is Peter Zmilczak and I am Fullstack Software Engineer. I enjoy programming the most when I can solve soneone's problem and the code is as perfect as I can make it. 
-One of the greatest advantages of our industry in my opinion is the ability to share and transfer knowledge. I am `DevOps/Automate-everything Approach Lover` and `Stock Market Enthusiast`, feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
+My name is Peter Zmilczak and I am a Fullstack Software Engineer. I enjoy programming the most when I can solve someone's problem and a solution is positively surprising to a user. In constant pursuit of the perfect Java packaging. One of the greatest advantages of our industry is the ability to share knowledge and change the world by creating awesome products. I am `DevOps/Automate-everything Approach Lover` 💻 and `Stock Market Enthusiast` 📈.
+
+Feel free to contact me in any case and if I will be able, I will be happy to help you 🙂.
 
 [![](https://komarev.com/ghpvc/?username=marwin1991&color=000000)](https://github.com/marwin1991?tab=repositories)
 
@@ -27,17 +28,6 @@ One of the greatest advantages of our industry in my opinion is the ability to s
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=marwin1991&show_icons=true&theme=great-gatsby)](https://github.com/marwin1991?tab=repositories)
 
-<!--
-**marwin1991/marwin1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [**logchange**](https://github.com/logchange/logchange)
+- 🌱 I’m currently learning **React** and **DDD**.
